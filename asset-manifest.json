@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fullpokeapi/static/css/main.b6314c35.css",
+    "main.js": "/fullpokeapi/static/js/main.d71dad7a.js",
+    "static/media/cold.jpg": "/fullpokeapi/static/media/cold.c85ae96a0dd1faee3607.jpg",
+    "static/media/hot.jpg": "/fullpokeapi/static/media/hot.e490c68eaaaddc4db8fd.jpg",
+    "static/media/bg.jpg": "/fullpokeapi/static/media/bg.1f8f1f0a202618e7fc7e.jpg",
+    "index.html": "/fullpokeapi/index.html",
+    "main.b6314c35.css.map": "/fullpokeapi/static/css/main.b6314c35.css.map",
+    "main.d71dad7a.js.map": "/fullpokeapi/static/js/main.d71dad7a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6314c35.css",
+    "static/js/main.d71dad7a.js"
+  ]
+}
